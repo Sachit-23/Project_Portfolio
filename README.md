@@ -36,7 +36,7 @@ SQL for Data Analysis, Python for Data Analysis, Advanced Excel, Power BI, Gener
 Presented dashboard walkthroughs and analytical findings to a 15-member training cohort.
 Guided 3 peer trainees on SQL optimization and Power BI report design in weekly study sessions.
 ## 📬 Let's Connect!
-- 💼 [LinkedIn]: (https://www.linkedin.com/in/sachit-fulzele/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachit-fulzele/)
 - 💻 GitHub: github.com/Sachit-23/Project_Portfolio
 - 📧 Email: sachitfulzele23@gmail.com
 - 📱 Phone: +91-8624847923
