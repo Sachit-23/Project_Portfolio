@@ -16,9 +16,9 @@ Aspiring Data Analyst passionate about turning raw data into actionable business
 * Analytical Techniques: Data Collection, Data Preprocessing, EDA, Trend Analysis, Ad-hoc Analysis, Data Modeling
 * Business & Stakeholder Skills: Requirement Gathering, Stakeholder Communication, KPI Reporting, Decision Support
 ## 💼 Work Experience
-Data Analyst Intern, ABC Trainings, Chhatrapati Sambhajinagar (On-site) — Nov 2025 – Apr 2026
-    - Developed and maintained SQL queries in SQL Server to extract and transform 50,000+ records from an Airbnb dataset across 6+ attributes, using Pandas and NumPy for data cleansing.
-Collaborated with stakeholders to translate business requirements into 10+ structured data models and reporting specifications.
+- Data Analyst Intern, ABC Trainings, Chhatrapati Sambhajinagar (On-site) — Nov 2025 – Apr 2026
+  - Developed and maintained SQL queries in SQL Server to extract and transform 50,000+ records from an Airbnb dataset across 6+ attributes, using Pandas and NumPy for data cleansing.
+  - Collaborated with stakeholders to translate business requirements into 10+ structured data models and reporting specifications.
 Performed data validation and reconciliation across 10+ weekly checkpoints to ensure accuracy and consistency.
 Built and maintained Power BI dashboards and pivot-table-based reports tracking 2 KPIs to surface pricing trends and patterns.
 Presented findings and recommendations to a 15-member cohort, translating technical results into business-ready insights.
