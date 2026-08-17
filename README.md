@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Sachit Fulzele
 ## 🎯 About Me
 Aspiring Data Analyst passionate about turning raw data into actionable business insights. Hands-on experience in Advanced SQL and Excel, having processed 175,000+ records across live projects. Skilled in translating business requirements into data solutions, performing data validation and reconciliation, and building dashboards that drive decision-making.
+
 🔭 ### What I Do
-📊 Extract, transform, and analyze large datasets using Advanced SQL, Python, and Excel.
-📈 Build interactive dashboards and reports with Power BI and Pivot Tables.
-🔍 Perform data validation, cleansing, and reconciliation to ensure accuracy and consistency.
-🤝 Collaborate with stakeholders to translate business requirements into structured data models.
+* 📊 Extract, transform, and analyze large datasets using Advanced SQL, Python, and Excel.
+* 📈 Build interactive dashboards and reports with Power BI and Pivot Tables.
+* 🔍 Perform data validation, cleansing, and reconciliation to ensure accuracy and consistency.
+* 🤝 Collaborate with stakeholders to translate business requirements into structured data models.
 ## 🛠️ Skills & Tools
 Query & Programming Languages: Advanced SQL, Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
 MS Office Suite: Advanced Excel (Pivot Tables, Formulas), MS Word, MS PowerPoint, MS Outlook
