@@ -28,7 +28,7 @@ Aspiring Data Analyst passionate about turning raw data into actionable business
 - [Food Wastage and Profit Leakage Analysis](https://github.com/Sachit-23/Project_Portfolio/blob/main/Food_Wastage%20Profit_leakage_Analysis_in_cloud_kitchen.sql)
   - Description: Designed a normalized 5-table MySQL database and wrote advanced SQL (joins, CTEs, window functions) to process 125,000+ records across 10 kitchens. Identified overstocking as the driver of 15% of ₹3.1 crore total wastage, with a validated 67.18% margin and ₹76.9M gross profit calculation. Automated a Python ETL workflow feeding Power BI dashboards.
 ## 🎓 Education
-- Master of Business Administration (Marketing) — Yashwantrao Chavan Maharashtra Open University, Nashik — Expected 2026
+- Master of Business Administration (Marketing) — Yashwantrao Chavan Maharashtra Open University, Nashik — 2026
 - Bachelor of Science — Yashwantrao Chavan Maharashtra Open University, Nashik — 2024
 ## 📜 Certifications
 SQL for Data Analysis, Python for Data Analysis, Advanced Excel, Power BI, Generative AI — ABC Trainings, 2026
