@@ -23,9 +23,9 @@ Aspiring Data Analyst passionate about turning raw data into actionable business
   - Built and maintained Power BI dashboards and pivot-table-based reports tracking 2 KPIs to surface pricing trends and patterns.
   - Presented findings and recommendations to a 15-member cohort, translating technical results into business-ready insights.
 ## 📌 Featured Projects
-- Airbnb Data Analysis
+- [Airbnb Data Analysis] (https://github.com/Sachit-23/Project_Portfolio/blob/main/Airbnb.py)
   - Description: Extracted and transformed 50,000+ listings using SQL Server, surfacing pricing differential findings and trend patterns.
-- Food Wastage and Profit Leakage Analysis
+- [Food Wastage and Profit Leakage Analysis] (https://github.com/Sachit-23/Project_Portfolio/blob/main/Food_Wastage%20Profit_leakage_Analysis_in_cloud_kitchen.sql)
   - Description: Designed a normalized 5-table MySQL database and wrote advanced SQL (joins, CTEs, window functions) to process 125,000+ records across 10 kitchens. Identified overstocking as the driver of 15% of ₹3.1 crore total wastage, with a validated 67.18% margin and ₹76.9M gross profit calculation. Automated a Python ETL workflow feeding Power BI dashboards.
 ## 🎓 Education
 - Master of Business Administration (Marketing) — Yashwantrao Chavan Maharashtra Open University, Nashik — Expected 2026
@@ -36,7 +36,7 @@ SQL for Data Analysis, Python for Data Analysis, Advanced Excel, Power BI, Gener
 Presented dashboard walkthroughs and analytical findings to a 15-member training cohort.
 Guided 3 peer trainees on SQL optimization and Power BI report design in weekly study sessions.
 ## 📬 Let's Connect!
-- 💼 LinkedIn: linkedin.com/in/sachit-fulzele-151b05230
+- 💼 [LinkedIn]: (https://www.linkedin.com/in/sachit-fulzele/)
 - 💻 GitHub: github.com/Sachit-23/Project_Portfolio
 - 📧 Email: sachitfulzele23@gmail.com
 - 📱 Phone: +91-8624847923
