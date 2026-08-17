@@ -8,16 +8,16 @@ Aspiring Data Analyst passionate about turning raw data into actionable business
 * 🔍 Perform data validation, cleansing, and reconciliation to ensure accuracy and consistency.
 * 🤝 Collaborate with stakeholders to translate business requirements into structured data models.
 ## 🛠️ Skills & Tools
-Query & Programming Languages: Advanced SQL, Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-MS Office Suite: Advanced Excel (Pivot Tables, Formulas), MS Word, MS PowerPoint, MS Outlook
-Databases & Data Engineering: MySQL, SQL Server, ETL Pipelines, Database Design
-Reporting & BI Tools: Power BI, Power Query, DAX, Google Sheets
-Data Quality & Documentation: Data Validation, Data Cleansing, Reconciliation, Process Documentation, Data Definitions, Reporting Standards
-Analytical Techniques: Data Collection, Data Preprocessing, EDA, Trend Analysis, Ad-hoc Analysis, Data Modeling
-Business & Stakeholder Skills: Requirement Gathering, Stakeholder Communication, KPI Reporting, Decision Support
+* Query & Programming Languages: Advanced SQL, Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
+* MS Office Suite: Advanced Excel (Pivot Tables, Formulas), MS Word, MS PowerPoint, MS Outlook
+* Databases & Data Engineering: MySQL, SQL Server, ETL Pipelines, Database Design
+* Reporting & BI Tools: Power BI, Power Query, DAX, Google Sheets
+* Data Quality & Documentation: Data Validation, Data Cleansing, Reconciliation, Process Documentation, Data Definitions, Reporting Standards
+* Analytical Techniques: Data Collection, Data Preprocessing, EDA, Trend Analysis, Ad-hoc Analysis, Data Modeling
+* Business & Stakeholder Skills: Requirement Gathering, Stakeholder Communication, KPI Reporting, Decision Support
 ## 💼 Work Experience
 Data Analyst Intern, ABC Trainings, Chhatrapati Sambhajinagar (On-site) — Nov 2025 – Apr 2026
-Developed and maintained SQL queries in SQL Server to extract and transform 50,000+ records from an Airbnb dataset across 6+ attributes, using Pandas and NumPy for data cleansing.
+-: Developed and maintained SQL queries in SQL Server to extract and transform 50,000+ records from an Airbnb dataset across 6+ attributes, using Pandas and NumPy for data cleansing.
 Collaborated with stakeholders to translate business requirements into 10+ structured data models and reporting specifications.
 Performed data validation and reconciliation across 10+ weekly checkpoints to ensure accuracy and consistency.
 Built and maintained Power BI dashboards and pivot-table-based reports tracking 2 KPIs to surface pricing trends and patterns.
